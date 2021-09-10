@@ -15,4 +15,10 @@
     color: black !important;
     border-radius: 20px;
 }
-
+.mains{
+    font-family: 'Besley',sans-serif;
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    padding-top: 10%;
+}
