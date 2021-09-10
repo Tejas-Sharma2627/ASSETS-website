@@ -17,11 +17,17 @@
 }
 .mains{
     font-family: 'Besley',sans-serif;
+    color: white;
     text-align: center;
     font-weight: bold;
     font-size: 50px;
     padding-top: 10%;
-    background-image: url(titleimg/jpg);
+    background-image: url(titleimg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 600px;
 }
+
+
 
 
