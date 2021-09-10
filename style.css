@@ -1,0 +1,17 @@
+#navigator{
+    background-color: black;
+    padding: 0 0;
+    height: 5rem;
+    align-items: center;
+    padding-top: 1%;
+}
+.nav-link{
+    color: white !important;
+    background-color: black;
+}
+
+.nav-link:hover{
+    background-color: white;
+    color: black !important;
+    border-radius: 20px;
+}
