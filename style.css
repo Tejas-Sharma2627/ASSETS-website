@@ -172,19 +172,19 @@ h3{
     margin-left:1%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     
-    color: #fff;
+    color: black;
 }
 
 .poAbout:hover{
-    color: black;
-    background-color: white;
+    color: white;
+    background-color: black;
     border-radius: 40px;
     padding: 2px 5px;
     text-decoration: none;
 }
 
 #features{
-    padding:7% 15% 7% 15%;
+    padding:5% 15% 5% 15%;
     background-color: #fff;
 }
 
@@ -205,6 +205,14 @@ h3{
 .fa-4x:hover{
     color: black!important;
     border-style: outset;
-    
-    
+}
+
+.aboutus{
+    padding: 1% 4%;
+}
+
+.aboutitem{
+    padding: 1% 4%;
+    margin-left: 150px;
+    font-size: large;
 }
