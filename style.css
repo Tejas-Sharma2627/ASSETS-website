@@ -8,6 +8,8 @@ h3{
     padding-top: 1%;
 
 }
+
+
 #navigator{
     background-color: black;
     padding: 0 0;
@@ -171,7 +173,7 @@ h3{
 .inAbout, .poAbout{
     margin-left:1%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    
+    text-decoration: none;
     color: black;
 }
 
@@ -228,7 +230,7 @@ h3{
     padding: 1%;
     margin:0 0 10% 45%;
     width: 50px;
-    
+    text-decoration: none;
 }
 
 .aboutusB:hover, .moreBlogs:hover{
@@ -259,13 +261,14 @@ h3{
     height: 400px;
     color: black;
     background-color: white;
+    align-items: center;
 }
 .testimg{
-    border-radius: 2000px;
     width: 25%;
     padding: 20px;
-    float: left;
-    
+    height: 25%;
+    border-radius: 5000px;
+
 }
 
 .maincon{
@@ -290,6 +293,7 @@ h3{
 
 .rbloglink{
     color: white;
+    text-decoration: none;
 }
 .rbloglink:hover{
     text-decoration: none;
@@ -304,6 +308,10 @@ h3{
     border-radius: 200px;
     padding: 1%;
     margin-left: 500px;
+    text-decoration: none;
 } 
+
+
+
 
 
